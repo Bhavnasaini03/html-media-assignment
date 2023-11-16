@@ -1,0 +1,4 @@
+Doctype - Doctype in HTML is an document type .It is an
+         instruction to the web browser about what version of HTML
+         the page is written in. doctype declaration in html is 
+         placed at the beginning of the html.

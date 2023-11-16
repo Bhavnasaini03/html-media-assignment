@@ -1,0 +1,6 @@
+Explain the purpose of comment .
+
+Comment - Comment in HTML provide the information about the code 
+          but it is not rendered by the web browser .
+          comments are useful for understanding ,explaining the 
+          code . 

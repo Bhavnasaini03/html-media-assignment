@@ -1,0 +1,16 @@
+
+Tag - HTML tags are like a Keyword or a snippet of code  which 
+      defines how the web browser format the content . tag contains
+      "<" and ">" . tag contains three important part : opening tag, 
+      content and closing tag .
+
+      eg. <h1> hello </h1>
+          h1 is a heaading tag , which contain opening and closing 
+          tag .
+
+Element - Element in HTML is defined by the starting tag ,content and
+          ending tag .
+
+      eg. <p> Education is very important </p>
+          here p is the paragraph tag which contain opening and 
+          closing tag .
